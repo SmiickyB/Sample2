@@ -1,6 +1,9 @@
-h1 {font-family: Georgia;
-background: #08de0c;
-text-align: right;}
-
+h1{
+  font-family: Tahoma;
+}
+nav {
+    font-family: Tahoma;
+  display: inline-block;
+}
 
 
