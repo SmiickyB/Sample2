@@ -5,15 +5,16 @@ h1{
 
 nav{
   font-family: Tahoma;
-  background: #dcdcdc;
-  margin: 0 auto;
+  background: #dcdcdc;}
+  
+  ul{margin: 0 auto;
   padding: 0 auto;
   display: block;
   list-style-type: none;
+  border: 1px solid #cecfd5;
 }
 ul{
-  border: 1px solid #cecfd5;
-  border-radius: 1px;
+  
 }
 
 
