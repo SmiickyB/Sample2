@@ -1,6 +1,8 @@
 h1{
   font-family: Tahoma;
+  text-align: left;
 }
+
 nav{
   font-family: Tahoma;
   margin: 0 auto;
@@ -8,5 +10,7 @@ nav{
   display: block;
   list-style-type: none;
 }
+ul{
+
 
 
